@@ -1,5 +1,7 @@
 # CorgiBT
 
+**A work in progress!!**
+
 CorgiBT is a Behaviour Tree implementation for Unity, providing both runtime and editor functionality. 
 It allows you to create, manage, and visualize complex AI behaviours in a structured and modular way.
 
